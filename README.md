@@ -26,7 +26,7 @@ En esta parte se describe la funcionalidad del proyecto a través de los siguien
 #### Validaciones:
 
 - Cifrar y descifrar mayúsculas como minúsculas
-- No dejar pasar campos vaciones o números.
+- No dejar pasar campos vacíos o números.
 
 #### Consideraciones Específicas:
 
